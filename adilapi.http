@@ -1,0 +1,6 @@
+@adilapi_HostAddress = http://localhost:5151
+
+GET {{adilapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

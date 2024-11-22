@@ -1,0 +1,288 @@
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/appsettings.Development.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/appsettings.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/adilapi.staticwebassets.endpoints.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/adilapi
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/adilapi.deps.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/adilapi.runtimeconfig.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/adilapi.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/adilapi.pdb
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.csproj.AssemblyReference.cache
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.AssemblyInfoInputs.cache
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.AssemblyInfo.cs
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.sourcelink.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/scopedcss/bundle/adilapi.styles.css
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.adilapi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.adilapi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.build.adilapi.props
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.adilapi.props
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.adilapi.props
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.csproj.Up2Date
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/refint/adilapi.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.pdb
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/adilapi.genruntimeconfig.cache
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/obj/Debug/net9.0/ref/adilapi.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/user/Desktop/Currect Project/adilprojects/adilapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/appsettings.Development.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/adilapi.staticwebassets.endpoints.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/appsettings.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/adilapi
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/adilapi.deps.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/adilapi.runtimeconfig.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/adilapi.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/adilapi.pdb
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Humanizer.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Npgsql.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/System.CodeDom.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.csproj.AssemblyReference.cache
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.AssemblyInfoInputs.cache
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.AssemblyInfo.cs
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.sourcelink.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/scopedcss/bundle/adilapi.styles.css
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.adilapi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.adilapi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.build.adilapi.props
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.adilapi.props
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.adilapi.props
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.csproj.Up2Date
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/refint/adilapi.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.pdb
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/adilapi.genruntimeconfig.cache
+/Users/user/Desktop/Currect/adilprojects/adilapi/obj/Debug/net9.0/ref/adilapi.dll
+/app/bin/Debug/net9.0/appsettings.Development.json
+/app/bin/Debug/net9.0/adilapi.staticwebassets.endpoints.json
+/app/bin/Debug/net9.0/appsettings.json
+/app/bin/Debug/net9.0/adilapi
+/app/bin/Debug/net9.0/adilapi.deps.json
+/app/bin/Debug/net9.0/adilapi.runtimeconfig.json
+/app/bin/Debug/net9.0/adilapi.dll
+/app/bin/Debug/net9.0/adilapi.pdb
+/app/bin/Debug/net9.0/Humanizer.dll
+/app/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/app/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/app/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/app/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/app/bin/Debug/net9.0/Mono.TextTemplating.dll
+/app/bin/Debug/net9.0/Npgsql.dll
+/app/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/app/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/app/bin/Debug/net9.0/System.CodeDom.dll
+/app/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/app/bin/Debug/net9.0/System.Composition.Convention.dll
+/app/bin/Debug/net9.0/System.Composition.Hosting.dll
+/app/bin/Debug/net9.0/System.Composition.Runtime.dll
+/app/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/obj/Debug/net9.0/adilapi.csproj.AssemblyReference.cache
+/app/obj/Debug/net9.0/adilapi.GeneratedMSBuildEditorConfig.editorconfig
+/app/obj/Debug/net9.0/adilapi.AssemblyInfoInputs.cache
+/app/obj/Debug/net9.0/adilapi.AssemblyInfo.cs
+/app/obj/Debug/net9.0/adilapi.csproj.CoreCompileInputs.cache
+/app/obj/Debug/net9.0/adilapi.MvcApplicationPartsAssemblyInfo.cs
+/app/obj/Debug/net9.0/adilapi.MvcApplicationPartsAssemblyInfo.cache
+/app/obj/Debug/net9.0/scopedcss/bundle/adilapi.styles.css
+/app/obj/Debug/net9.0/staticwebassets.build.json
+/app/obj/Debug/net9.0/staticwebassets.development.json
+/app/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/app/obj/Debug/net9.0/staticwebassets/msbuild.adilapi.Microsoft.AspNetCore.StaticWebAssets.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.adilapi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.build.adilapi.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.adilapi.props
+/app/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.adilapi.props
+/app/obj/Debug/net9.0/staticwebassets.pack.json
+/app/obj/Debug/net9.0/adilapi.csproj.Up2Date
+/app/obj/Debug/net9.0/adilapi.dll
+/app/obj/Debug/net9.0/refint/adilapi.dll
+/app/obj/Debug/net9.0/adilapi.pdb
+/app/obj/Debug/net9.0/adilapi.genruntimeconfig.cache
+/app/obj/Debug/net9.0/ref/adilapi.dll
+/Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Newtonsoft.Json.dll
+/app/bin/Debug/net9.0/Newtonsoft.Json.dll
