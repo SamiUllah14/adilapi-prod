@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/app/adilapi.csproj": {}
+    "/Users/user/Desktop/Currect/adilprojects/adilapi/adilapi.csproj": {}
   },
   "projects": {
-    "/app/adilapi.csproj": {
+    "/Users/user/Desktop/Currect/adilprojects/adilapi/adilapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/app/adilapi.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Currect/adilprojects/adilapi/adilapi.csproj",
         "projectName": "adilapi",
-        "projectPath": "/app/adilapi.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/app/obj/",
+        "projectPath": "/Users/user/Desktop/Currect/adilprojects/adilapi/adilapi.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Desktop/Currect/adilprojects/adilapi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/Users/user/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -96,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,17 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+
+
+# Environment variables
+.env
+

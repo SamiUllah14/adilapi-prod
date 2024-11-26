@@ -38,6 +38,15 @@ if (app.Environment.IsDevelopment())
         options.SwaggerEndpoint("/openapi/v1.json", "adil Api");
     });
 }
+else
+{
+    // Optional: Include Swagger for production
+    app.MapOpenApi();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "adil Api (Production)");
+    });
+}
 
 // Apply the CORS policy
 app.UseCors("AllowAll");

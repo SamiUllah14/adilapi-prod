@@ -286,3 +286,4 @@
 /app/obj/Debug/net9.0/ref/adilapi.dll
 /Users/user/Desktop/Currect/adilprojects/adilapi/bin/Debug/net9.0/Newtonsoft.Json.dll
 /app/bin/Debug/net9.0/Newtonsoft.Json.dll
+/app/obj/Debug/net9.0/adilapi.sourcelink.json

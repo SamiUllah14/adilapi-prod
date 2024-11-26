@@ -1,21 +1,26 @@
-# Use the official .NET SDK image for building and running in development
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS development
+# Use the official .NET SDK image for building
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 
-# Set the working directory in the container
+# Set the working directory
 WORKDIR /app
 
 # Copy the csproj file(s) and restore dependencies
 COPY *.csproj ./
 RUN dotnet restore
 
-# Copy the entire source code
+# Copy the entire source code and build in Release mode
 COPY . ./
+RUN dotnet publish -c Release -o /app/publish
 
-# Expose the ports the app will run on
-EXPOSE 5000
+# Use the runtime image for production
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS runtime
+WORKDIR /app
 
-# Enable hot reload capabilities (optional for development mode)
-ENV DOTNET_USE_POLLING_FILE_WATCHER=true
+# Copy the published output from the build stage
+COPY --from=build /app/publish .
 
-# Start the application with hot reload
-CMD ["dotnet", "watch", "run", "--urls=http://0.0.0.0:5151"]
+# Expose the application's port
+EXPOSE 5151
+
+# Run the application
+ENTRYPOINT ["dotnet", "adilapi.dll"]
