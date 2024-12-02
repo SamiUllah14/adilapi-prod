@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("adilapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd740ec001bb0c697865b43f20ecac009f947e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03a85cb386cda31f920f539c7a7a688527da000f")]
 [assembly: System.Reflection.AssemblyProductAttribute("adilapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("adilapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
